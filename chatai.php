@@ -1,5 +1,5 @@
 <?php
-$token = "7373572747:AAHCHNScZsa205RmMSlLgFiCCMsqBc_s8DM";//توكن بوتك
+$token = "7669847119:AAElD3jt_NAB_Ihukkllqany3wtVcMK3wMs";//توكن بوتك
 $apiUrl = "https://api.telegram.org/bot$token/";
 function sendMessage($chat_id, $text) {
     global $apiUrl;
